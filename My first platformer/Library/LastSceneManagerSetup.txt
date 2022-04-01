@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/08.B0201-1/Role0201@1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
